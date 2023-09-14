@@ -1,6 +1,12 @@
+## <b> The Play Store app data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market. </b>
+
+## <b> Each app (row) has values for category, rating, size, and more. Another dataset contains customer reviews of the Android apps.</b>
+
+## <b> Explore and analyze the data to discover key factors responsible for app engagement and success. </b>
+
 # **PROJECT DESCRIPTION**
 
-*Mobile apps are everywhere. According to state counter global stats over 71.86% of mobile operating system market is shared by android worldwide - 'july 2022', so clearly andriod dominates in global market share.They are trouble free to create, profitable or booming & are very useful and because of all these factors, apps are being developed progressively. In this project, We will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Playstore all across different categories. We'll look for different insights in the data to conceive strategies to operate and grasp info. The data for this project was taken from the Google Play Store website.The given data files are as follows:*
+*Mobile apps are everywhere. According to state counter global stats over 71.86% of the mobile operating system market is shared by Android worldwide - 'July 2022', so clearly Android dominates in global market share. They are trouble-free to create, profitable or booming & are very useful and because of all these factors, apps are being developed progressively. In this project, We will comprehensively analyse the Android app market by comparing over ten thousand apps in the Google Play store across different categories. We'll look for further insights into the data to conceive strategies to operate and grasp info. The data for this project was taken from the Google Play Store website. The given data files are as follows:*
 
 
 # Here we have 2 csv files in the current version of the dataset:
